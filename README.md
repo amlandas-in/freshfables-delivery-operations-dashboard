@@ -1,2 +1,23 @@
-# freshfables-delivery-operations-dashboard
-Operations analytics dashboard for FreshFables, an online grocery delivery service. Analyzes order demand, peak vs non-peak performance, and delivery delays to uncover operational inefficiencies and support data-driven decision-making.
+# 🛒 FreshFables Delivery Operations Dashboard
+## 📌 Project Overview
+
+FreshFables is an online grocery delivery service focused on fast, reliable, and high-quality fulfillment.
+This project analyzes one month of delivery operations data to uncover insights that support strategic and operational decision-making.
+
+The dashboard provides a clear, end-to-end view of demand patterns, delivery performance, and operational bottlenecks to help improve efficiency and customer experience.
+
+---
+
+## 🎯 Business Objective
+
+This analysis helps operations and business teams:
+
+- 📈 Understand order demand across days and time slots
+
+- ⏱ Compare peak vs non-peak operational performance
+
+- 🚚 Identify key drivers of delivery delays
+
+- 📊 Improve SLA performance and delivery planning
+
+---
