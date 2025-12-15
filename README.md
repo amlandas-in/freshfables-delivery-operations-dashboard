@@ -77,3 +77,15 @@ This analysis helps operations and business teams:
 
 📷 Dashboard preview:
 ![image alt](https://github.com/amlandas-in/freshfables-delivery-operations-dashboard/blob/1a4fc759d654841645dc09437992ab4fc156aa45/dashboards/Amlan_FreshFables.jpg)
+
+-----
+
+2️⃣ Delivery Performance & Delay Analysis Dashboard
+
+Breaks down on-time vs delayed orders
+
+Analyzes delay reasons across delivery stages
+
+Highlights operational bottlenecks impacting SLAs
+
+📷 Dashboard preview:
