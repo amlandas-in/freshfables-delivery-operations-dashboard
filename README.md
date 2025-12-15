@@ -82,10 +82,10 @@ This analysis helps operations and business teams:
 
 2️⃣ Delivery Performance & Delay Analysis Dashboard
 
-Breaks down on-time vs delayed orders
+- Breaks down on-time vs delayed orders
 
-Analyzes delay reasons across delivery stages
+- Analyzes delay reasons across delivery stages
 
-Highlights operational bottlenecks impacting SLAs
+- Highlights operational bottlenecks impacting delivery performance
 
 📷 Dashboard preview:
