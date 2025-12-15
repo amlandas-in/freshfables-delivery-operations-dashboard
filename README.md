@@ -89,7 +89,7 @@ This analysis helps operations and business teams:
 - Highlights operational bottlenecks impacting delivery performance
 
 📷 Dashboard preview:
-![image alt](https://github.com/amlandas-in/freshfables-delivery-operations-dashboard/blob/6eb7ee69d816212d76b2877793242f8607960ae6/dashboards/FreshFables_Ops_Delay_Dashboard.png)
+![image alt](https://github.com/amlandas-in/freshfables-delivery-operations-dashboard/blob/df3cb2f4bf60d027fdff62a6b42115862f0cc564/assets/FreshFables_Ops_Delay_Dashboard.png)
 
 ---
 
