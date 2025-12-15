@@ -65,3 +65,14 @@ This analysis helps operations and business teams:
 - Delivery performance remained consistent across all days
 
 ---
+
+## 📈 Dashboards
+### 1️⃣ Order Volume & Customer Trends Dashboard
+
+- Visualizes order volume by weekday and time period
+
+- Shows customer distribution and demand consistency
+
+- Helps identify peak demand days and time slots
+
+📷 Dashboard preview:
