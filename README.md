@@ -92,3 +92,31 @@ This analysis helps operations and business teams:
 ![image alt](https://github.com/amlandas-in/freshfables-delivery-operations-dashboard/blob/6eb7ee69d816212d76b2877793242f8607960ae6/dashboards/FreshFables_Ops_Delay_Dashboard.png)
 
 ---
+
+## 🛠 Tools & Skills Used
+
+- 📊 Google Looker Studio for interactive dashboard design and visualization
+
+- 📑 Advanced Excel for data cleaning, transformation, and exploratory analysis
+
+- 🔄 Data blending and advanced filtering for multi-dimensional analysis
+
+- 🧮 Calculated fields and custom delay flags for performance tracking
+
+- ⏱ Custom time segmentation logic to analyze peak vs non-peak demand
+
+- 📉 Pie, bar, and line visualizations to communicate insights clearly
+
+---
+
+## 💼 Business Value
+
+This dashboard helps teams:
+
+- 🎯 Identify operational bottlenecks impacting Service Level Agreements (SLAs)
+
+- 🛵 Optimize staffing and routing during peak demand periods
+
+- 📊 Enable faster, data-backed operational decision-making
+
+- 😊 Improve customer experience through more reliable and timely deliveries
