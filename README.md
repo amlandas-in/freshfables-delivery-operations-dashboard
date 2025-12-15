@@ -34,3 +34,34 @@ This analysis helps operations and business teams:
 | 📅 Average Orders | Weekday vs weekend, peak vs non-peak |
 | ⚠️ Delivery Issues | On-time vs delayed orders |
 | 🔍 Delay Reasons | Assignment, delivery time, processing |
+
+---
+
+## 🧠 Key Insights
+
+- 🚚 77.1% of orders were delivered on time; 22.9% experienced delays
+
+- 📈 Peak demand was highest on weekends and during morning hours
+
+- 📦 Delivery time and agent assignment were the top contributors to delays
+
+- 🧩 Only 19 delays were related to processing; zero delays came from packing
+
+- 📅 Friday and Saturday recorded the highest order volumes
+
+---
+
+## ⏰ Time-Based Analysis
+### 🌅 Time of Day
+
+- Morning (6 AM–12 PM) consistently generated the highest order volume
+
+- Noon, evening, and night trends revealed demand shifts across the week
+
+### 📆 Weekday vs Weekend
+
+- Weekdays showed slightly higher average order volumes
+
+- Delivery performance remained consistent across all days
+
+---
